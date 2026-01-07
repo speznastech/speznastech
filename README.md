@@ -1,5 +1,5 @@
 ## Hi there 👋
-I´m Justin, a developer who enjoys building websites and Windows software. 
+I´m Justin, a developer who enjoys building websites and Windows software from Germany 
 
 I work with **C++**, **JavaScript**, **HTML** and **CSS**.
 
