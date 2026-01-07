@@ -1,8 +1,21 @@
-## Hi there 👋
-I´m Justin, a developer who enjoys building websites and Windows software from Germany 
+## Hi there, I'm Justin 👋
 
+I'm a developer who enjoys building websites and software.
 I work with **C++**, **JavaScript**, **HTML** and **CSS**.
 
-Started programming because I geniuely enjoy it- and becuase i want to build skills to benifit me in the future.
+I started programming because I genuinely enjoy creating things
+and continuosly improving my skills.
 
-Remember self improvment is key 🔑
+*Currently, I'm focusing on:*
+- improving my coding skills
+- building small but meaningful projects
+- growing a solid GitHub profile
+
+Besides programming, I'm interested in self-improvement
+and experimenting with productivity and routines.
+
+Feel free to contact me if you´d like to connect or collaborate 😊.
+
+*Platforms:*
+
+YouTube 🔴 · Instagram 📷· Linktree 💚
