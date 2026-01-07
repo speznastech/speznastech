@@ -15,6 +15,7 @@ Besides programming, I'm interested in self-improvement
 and experimenting with productivity and routines.
 
 Feel free to contact me if you´d like to connect or collaborate 😊.
+(Contact me at Linktree)
 
 *Platforms:*
 
